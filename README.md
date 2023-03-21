@@ -3,3 +3,4 @@
 
 ## 1. Median of Two Sorted Arrays
 ## 2. Merge K Sorted Lists
+## 3. Longest Valid Parentheses
