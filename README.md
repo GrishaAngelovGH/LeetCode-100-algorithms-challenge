@@ -6,3 +6,4 @@
 ## 3. Longest Valid Parentheses
 ## 4. First Missing Positive
 ## 5. Minimum Window Substring
+## 6. Maximum Gap
