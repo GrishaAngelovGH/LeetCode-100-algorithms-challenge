@@ -7,3 +7,4 @@
 ## 4. First Missing Positive
 ## 5. Minimum Window Substring
 ## 6. Maximum Gap
+## 7. Contains Duplicate III
