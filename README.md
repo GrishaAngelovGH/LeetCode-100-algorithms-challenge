@@ -8,3 +8,4 @@
 ## 5. Minimum Window Substring
 ## 6. Maximum Gap
 ## 7. Contains Duplicate III
+## 8. Number of Digit One
