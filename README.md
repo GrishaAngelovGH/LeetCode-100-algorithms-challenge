@@ -9,3 +9,4 @@
 ## 6. Maximum Gap
 ## 7. Contains Duplicate III
 ## 8. Number of Digit One
+## 9. Count of Smaller Numbers After Self
