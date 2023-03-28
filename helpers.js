@@ -20,7 +20,10 @@ const generateSubstrings = str => {
 // console.log(generateSubstrings('abc'))
 // [ 'a', 'ab', 'abc', 'b', 'bc', 'c' ]
 
+const checkPalindrome = str => [...str].reverse().join('') === str
+
 module.exports = {
   assertEquals,
-  generateSubstrings
+  generateSubstrings,
+  checkPalindrome
 }
