@@ -11,3 +11,4 @@
 ## 8. Number of Digit One
 ## 9. Count of Smaller Numbers After Self
 ## 10. Palindrome Pairs
+## 11. K-th Smallest in Lexicographical Order
