@@ -13,3 +13,4 @@
 ## 10. Palindrome Pairs
 ## 11. K-th Smallest in Lexicographical Order
 ## 12. Find the Closest Palindrome
+## 13. Kth Smallest Number in Multiplication Table
