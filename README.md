@@ -14,3 +14,4 @@
 ## 11. K-th Smallest in Lexicographical Order
 ## 12. Find the Closest Palindrome
 ## 13. Kth Smallest Number in Multiplication Table
+## 14. Count Unique Characters of All Substrings of a Given String
