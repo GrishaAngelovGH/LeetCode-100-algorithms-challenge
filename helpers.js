@@ -47,9 +47,24 @@ const generateSubarrays = arr => {
 
 const checkPalindrome = str => [...str].reverse().join('') === str
 
+const countFrequency = str => {
+  const freq = {}
+
+  str.split('').forEach(v => {
+    if (!freq[v]) {
+      freq[v] = 0
+    }
+
+    freq[v]++
+  })
+
+  return freq
+}
+
 module.exports = {
   assertEquals,
   generateSubstrings,
   generateSubarrays,
-  checkPalindrome
+  checkPalindrome,
+  countFrequency
 }

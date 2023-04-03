@@ -1,16 +1,7 @@
-const { generateSubstrings } = require('../helpers')
+const { generateSubstrings, countFrequency } = require('../helpers')
 
 const countUniqueChars = str => {
-  const freq = {}
-
-  str.split('').forEach(v => {
-    if (!freq[v]) {
-      freq[v] = 0
-    }
-
-    freq[v]++
-  })
-
+  const freq = countFrequency(str)
   return Object.values(freq).filter(v => v === 1).length
 }
 
