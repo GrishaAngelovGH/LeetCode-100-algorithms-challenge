@@ -22,3 +22,4 @@
 ## 19. Maximum Subarray
 ## 20. Single Number II
 ## 21. Maximum Product Subarray
+## 22. Rotate Array
