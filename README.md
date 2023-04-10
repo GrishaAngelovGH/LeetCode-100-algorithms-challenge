@@ -23,3 +23,4 @@
 ## 20. Single Number II
 ## 21. Maximum Product Subarray
 ## 22. Rotate Array
+## 23. Find the Duplicate Number

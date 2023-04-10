@@ -47,10 +47,11 @@ const generateSubarrays = arr => {
 
 const checkPalindrome = str => [...str].reverse().join('') === str
 
-const countFrequency = str => {
+const countFrequency = input => {
   const freq = {}
+  const values = typeof input === 'string' ? input.split('') : input
 
-  str.split('').forEach(v => {
+  values.forEach(v => {
     if (!freq[v]) {
       freq[v] = 0
     }
