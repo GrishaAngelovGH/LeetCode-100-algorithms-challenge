@@ -26,3 +26,4 @@
 ## 23. Find the Duplicate Number
 ## 24. Lexicographical Numbers
 ## 25. Longest Substring with At Least K Repeating Characters
+## 26. String Compression
