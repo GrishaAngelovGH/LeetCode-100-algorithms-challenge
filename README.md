@@ -34,3 +34,4 @@
 ## 31. Palindromic Substrings
 ## 32. Repeated String Match
 ## 33. Top K Frequent Words
+## 34. Number of Subarrays with Bounded Maximum
