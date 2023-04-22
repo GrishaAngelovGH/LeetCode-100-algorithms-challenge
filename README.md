@@ -35,3 +35,4 @@
 ## 32. Repeated String Match
 ## 33. Top K Frequent Words
 ## 34. Number of Subarrays with Bounded Maximum
+## 35. Decoded String at Index
