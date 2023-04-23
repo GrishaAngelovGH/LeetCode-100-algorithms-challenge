@@ -36,3 +36,4 @@
 ## 33. Top K Frequent Words
 ## 34. Number of Subarrays with Bounded Maximum
 ## 35. Decoded String at Index
+## 36. Sum of Subarray Minimums
