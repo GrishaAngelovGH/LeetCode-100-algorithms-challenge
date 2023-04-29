@@ -42,3 +42,4 @@
 ## 39. Binary String With Substrings Representing 1 To N
 ## 40. Maximum of Absolute Value Expression
 ## 41. Add Binary
+## 42. Valid Palindrome
