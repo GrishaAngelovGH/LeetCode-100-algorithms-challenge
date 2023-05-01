@@ -44,3 +44,4 @@
 ## 41. Add Binary
 ## 42. Valid Palindrome
 ## 43. Valid Anagram
+## 44. Fizz Buzz
