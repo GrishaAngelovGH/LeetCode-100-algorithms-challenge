@@ -45,3 +45,4 @@
 ## 42. Valid Palindrome
 ## 43. Valid Anagram
 ## 44. Fizz Buzz
+## 45. Sort Array By Parity
