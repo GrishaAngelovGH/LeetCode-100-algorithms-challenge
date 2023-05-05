@@ -48,3 +48,4 @@
 ## 45. Sort Array By Parity
 ## 46. Subtract the Product and Sum of Digits of an Integer
 ## 47. Find Numbers with Even Number of Digits
+## 48. Check If a Word Occurs As a Prefix of Any Word in a Sentence
