@@ -50,3 +50,4 @@
 ## 47. Find Numbers with Even Number of Digits
 ## 48. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 ## 49. Number of Good Pairs
+## 50. Check If Two String Arrays are Equivalent
