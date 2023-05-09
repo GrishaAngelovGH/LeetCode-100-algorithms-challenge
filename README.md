@@ -52,3 +52,4 @@
 ## 49. Number of Good Pairs
 ## 50. Check If Two String Arrays are Equivalent
 ## 51. Count Number of Nice Subarrays
+## 52. Product of the Last K Numbers
