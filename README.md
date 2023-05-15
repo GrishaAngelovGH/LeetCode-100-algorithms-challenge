@@ -58,3 +58,4 @@
 ## 55. Rearrange Words in a Sentence
 ## 56. Maximum Number of Vowels in a Substring of Given Length
 ## 57. The kth Factor of n
+## 58. Longest Subarray of 1's After Deleting One Element
