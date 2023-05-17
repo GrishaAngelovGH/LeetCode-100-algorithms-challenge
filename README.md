@@ -60,3 +60,4 @@
 ## 57. The kth Factor of n
 ## 58. Longest Subarray of 1's After Deleting One Element
 ## 59. Range Sum of Sorted Subarray Sums
+## 60. Number of Substrings With Only 1s
