@@ -61,3 +61,4 @@
 ## 58. Longest Subarray of 1's After Deleting One Element
 ## 59. Range Sum of Sorted Subarray Sums
 ## 60. Number of Substrings With Only 1s
+## 61. Number of Sub-arrays With Odd Sum
