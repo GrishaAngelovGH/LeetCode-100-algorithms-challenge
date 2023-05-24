@@ -67,3 +67,4 @@
 ## 64. Concatenation of Consecutive Binary Numbers
 ## 65. Sum of Absolute Differences in a Sorted Array
 ## 66. Tuple with Same Product
+## 67. Maximum Absolute Sum of Any Subarray
