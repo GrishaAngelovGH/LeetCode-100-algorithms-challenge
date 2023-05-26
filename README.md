@@ -69,3 +69,4 @@
 ## 66. Tuple with Same Product
 ## 67. Maximum Absolute Sum of Any Subarray
 ## 68. Maximum Subarray Min-Product
+## 69. Minimum Absolute Difference Queries
