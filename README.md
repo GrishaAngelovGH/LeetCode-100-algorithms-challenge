@@ -70,3 +70,4 @@
 ## 67. Maximum Absolute Sum of Any Subarray
 ## 68. Maximum Subarray Min-Product
 ## 69. Minimum Absolute Difference Queries
+## 70. Number of Pairs of Strings With Concatenation Equal to Target
