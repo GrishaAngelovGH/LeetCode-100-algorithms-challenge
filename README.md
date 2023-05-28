@@ -71,3 +71,4 @@
 ## 68. Maximum Subarray Min-Product
 ## 69. Minimum Absolute Difference Queries
 ## 70. Number of Pairs of Strings With Concatenation Equal to Target
+## 71. Vowels of All Substrings
