@@ -73,3 +73,4 @@
 ## 70. Number of Pairs of Strings With Concatenation Equal to Target
 ## 71. Vowels of All Substrings
 ## 72. Nth Magical Number
+## 73. Numbers At Most N Given Digit Set
