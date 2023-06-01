@@ -75,3 +75,4 @@
 ## 72. Nth Magical Number
 ## 73. Numbers At Most N Given Digit Set
 ## 74. Super Palindromes
+## 75. Subarrays with K Different Integers
