@@ -76,3 +76,4 @@
 ## 73. Numbers At Most N Given Digit Set
 ## 74. Super Palindromes
 ## 75. Subarrays with K Different Integers
+## 76. Last Substring in Lexicographical Order
