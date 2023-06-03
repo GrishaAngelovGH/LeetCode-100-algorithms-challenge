@@ -77,3 +77,4 @@
 ## 74. Super Palindromes
 ## 75. Subarrays with K Different Integers
 ## 76. Last Substring in Lexicographical Order
+## 77. Sum of Floored Pairs
