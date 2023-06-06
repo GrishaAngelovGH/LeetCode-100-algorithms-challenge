@@ -80,3 +80,4 @@
 ## 77. Sum of Floored Pairs
 ## 78. Kth Smallest Product of Two Sorted Arrays
 ## 79. Count Array Pairs Divisible by K
+## 80. Total Appeal of A String
