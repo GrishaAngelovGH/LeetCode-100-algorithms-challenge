@@ -82,3 +82,4 @@
 ## 79. Count Array Pairs Divisible by K
 ## 80. Total Appeal of A String
 ## 81. Count Subarrays With Score Less Than K
+## 82. Subarray With Elements Greater Than Varying Threshold
