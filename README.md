@@ -84,3 +84,4 @@
 ## 81. Count Subarrays With Score Less Than K
 ## 82. Subarray With Elements Greater Than Varying Threshold
 ## 83. Count Special Integers
+## 84. Count Subarrays With Fixed Bounds
