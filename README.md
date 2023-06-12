@@ -86,3 +86,4 @@
 ## 83. Count Special Integers
 ## 84. Count Subarrays With Fixed Bounds
 ## 85. Next Greater Element IV
+## 86. Maximum Frequency Stack
