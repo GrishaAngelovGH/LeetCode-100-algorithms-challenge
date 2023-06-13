@@ -87,3 +87,4 @@
 ## 84. Count Subarrays With Fixed Bounds
 ## 85. Next Greater Element IV
 ## 86. Maximum Frequency Stack
+## 87. Find Substring With Given Hash Value
