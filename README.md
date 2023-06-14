@@ -88,3 +88,4 @@
 ## 85. Next Greater Element IV
 ## 86. Maximum Frequency Stack
 ## 87. Find Substring With Given Hash Value
+## 88. Make Array Empty
