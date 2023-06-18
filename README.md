@@ -92,3 +92,4 @@
 ## 89. Group Anagrams
 ## 90. Find Peak Element
 ## 91. Count Primes
+## 92. Maximum Product of Word Lengths
