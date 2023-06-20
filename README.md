@@ -94,3 +94,4 @@
 ## 91. Count Primes
 ## 92. Maximum Product of Word Lengths
 ## 93. Find K Pairs with Smallest Sums
+## 94. Shifting Letters
