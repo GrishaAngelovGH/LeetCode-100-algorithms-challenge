@@ -95,3 +95,4 @@
 ## 92. Maximum Product of Word Lengths
 ## 93. Find K Pairs with Smallest Sums
 ## 94. Shifting Letters
+## 95. Sum of Even Numbers After Queries
